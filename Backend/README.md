@@ -1,2 +1,0 @@
-# RestaurantMangement
-mern project
