@@ -2,10 +2,10 @@
   "name": "restaurant",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "type":"module",
+  "main": "src/server.js",
+  "type": "module",
   "scripts": {
-    "server": "nodemon server.js"
+    "server": "nodemon src/server.js"
   },
   "author": "Shubhankar,Ratnakar,Abinash",
   "license": "ISC",
