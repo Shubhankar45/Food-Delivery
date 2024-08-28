@@ -5,6 +5,7 @@
   "main": "src/server.js",
   "type": "module",
   "scripts": {
+    "start": "node src/server.js",
     "server": "nodemon src/server.js"
   },
   "author": "Shubhankar,Ratnakar,Abinash",
